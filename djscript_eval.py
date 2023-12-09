@@ -1,3 +1,5 @@
+# This script gets user input as a string and outputs if it is a zero, positive/negative number or invalid input
+
 # Prompt for user input
 user_input = input("Enter a number: ")
 
